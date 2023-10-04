@@ -1,0 +1,14 @@
+D:\C# Projects\algoritma\bin\Debug\net7.0\algoritma.exe
+D:\C# Projects\algoritma\bin\Debug\net7.0\algoritma.deps.json
+D:\C# Projects\algoritma\bin\Debug\net7.0\algoritma.runtimeconfig.json
+D:\C# Projects\algoritma\bin\Debug\net7.0\algoritma.dll
+D:\C# Projects\algoritma\bin\Debug\net7.0\algoritma.pdb
+D:\C# Projects\algoritma\obj\Debug\net7.0\algoritma.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\algoritma\obj\Debug\net7.0\algoritma.AssemblyInfoInputs.cache
+D:\C# Projects\algoritma\obj\Debug\net7.0\algoritma.AssemblyInfo.cs
+D:\C# Projects\algoritma\obj\Debug\net7.0\algoritma.csproj.CoreCompileInputs.cache
+D:\C# Projects\algoritma\obj\Debug\net7.0\algoritma.dll
+D:\C# Projects\algoritma\obj\Debug\net7.0\refint\algoritma.dll
+D:\C# Projects\algoritma\obj\Debug\net7.0\algoritma.pdb
+D:\C# Projects\algoritma\obj\Debug\net7.0\algoritma.genruntimeconfig.cache
+D:\C# Projects\algoritma\obj\Debug\net7.0\ref\algoritma.dll
