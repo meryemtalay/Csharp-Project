@@ -1,0 +1,14 @@
+D:\C# Projects\DaireCizimi\bin\Debug\net7.0\DaireCizimi.exe
+D:\C# Projects\DaireCizimi\bin\Debug\net7.0\DaireCizimi.deps.json
+D:\C# Projects\DaireCizimi\bin\Debug\net7.0\DaireCizimi.runtimeconfig.json
+D:\C# Projects\DaireCizimi\bin\Debug\net7.0\DaireCizimi.dll
+D:\C# Projects\DaireCizimi\bin\Debug\net7.0\DaireCizimi.pdb
+D:\C# Projects\DaireCizimi\obj\Debug\net7.0\DaireCizimi.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\DaireCizimi\obj\Debug\net7.0\DaireCizimi.AssemblyInfoInputs.cache
+D:\C# Projects\DaireCizimi\obj\Debug\net7.0\DaireCizimi.AssemblyInfo.cs
+D:\C# Projects\DaireCizimi\obj\Debug\net7.0\DaireCizimi.csproj.CoreCompileInputs.cache
+D:\C# Projects\DaireCizimi\obj\Debug\net7.0\DaireCizimi.dll
+D:\C# Projects\DaireCizimi\obj\Debug\net7.0\refint\DaireCizimi.dll
+D:\C# Projects\DaireCizimi\obj\Debug\net7.0\DaireCizimi.pdb
+D:\C# Projects\DaireCizimi\obj\Debug\net7.0\DaireCizimi.genruntimeconfig.cache
+D:\C# Projects\DaireCizimi\obj\Debug\net7.0\ref\DaireCizimi.dll
