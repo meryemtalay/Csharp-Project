@@ -1,0 +1,14 @@
+D:\C# Projects\UcgenCizimi\bin\Debug\net7.0\UcgenCizimi.exe
+D:\C# Projects\UcgenCizimi\bin\Debug\net7.0\UcgenCizimi.deps.json
+D:\C# Projects\UcgenCizimi\bin\Debug\net7.0\UcgenCizimi.runtimeconfig.json
+D:\C# Projects\UcgenCizimi\bin\Debug\net7.0\UcgenCizimi.dll
+D:\C# Projects\UcgenCizimi\bin\Debug\net7.0\UcgenCizimi.pdb
+D:\C# Projects\UcgenCizimi\obj\Debug\net7.0\UcgenCizimi.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\UcgenCizimi\obj\Debug\net7.0\UcgenCizimi.AssemblyInfoInputs.cache
+D:\C# Projects\UcgenCizimi\obj\Debug\net7.0\UcgenCizimi.AssemblyInfo.cs
+D:\C# Projects\UcgenCizimi\obj\Debug\net7.0\UcgenCizimi.csproj.CoreCompileInputs.cache
+D:\C# Projects\UcgenCizimi\obj\Debug\net7.0\UcgenCizimi.dll
+D:\C# Projects\UcgenCizimi\obj\Debug\net7.0\refint\UcgenCizimi.dll
+D:\C# Projects\UcgenCizimi\obj\Debug\net7.0\UcgenCizimi.pdb
+D:\C# Projects\UcgenCizimi\obj\Debug\net7.0\UcgenCizimi.genruntimeconfig.cache
+D:\C# Projects\UcgenCizimi\obj\Debug\net7.0\ref\UcgenCizimi.dll

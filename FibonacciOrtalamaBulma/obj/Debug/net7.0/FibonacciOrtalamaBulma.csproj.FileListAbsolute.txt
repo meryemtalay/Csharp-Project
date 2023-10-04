@@ -1,0 +1,14 @@
+D:\C# Projects\FibonacciOrtalamaBulma\bin\Debug\net7.0\FibonacciOrtalamaBulma.exe
+D:\C# Projects\FibonacciOrtalamaBulma\bin\Debug\net7.0\FibonacciOrtalamaBulma.deps.json
+D:\C# Projects\FibonacciOrtalamaBulma\bin\Debug\net7.0\FibonacciOrtalamaBulma.runtimeconfig.json
+D:\C# Projects\FibonacciOrtalamaBulma\bin\Debug\net7.0\FibonacciOrtalamaBulma.dll
+D:\C# Projects\FibonacciOrtalamaBulma\bin\Debug\net7.0\FibonacciOrtalamaBulma.pdb
+D:\C# Projects\FibonacciOrtalamaBulma\obj\Debug\net7.0\FibonacciOrtalamaBulma.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\FibonacciOrtalamaBulma\obj\Debug\net7.0\FibonacciOrtalamaBulma.AssemblyInfoInputs.cache
+D:\C# Projects\FibonacciOrtalamaBulma\obj\Debug\net7.0\FibonacciOrtalamaBulma.AssemblyInfo.cs
+D:\C# Projects\FibonacciOrtalamaBulma\obj\Debug\net7.0\FibonacciOrtalamaBulma.csproj.CoreCompileInputs.cache
+D:\C# Projects\FibonacciOrtalamaBulma\obj\Debug\net7.0\FibonacciOrtalamaBulma.dll
+D:\C# Projects\FibonacciOrtalamaBulma\obj\Debug\net7.0\refint\FibonacciOrtalamaBulma.dll
+D:\C# Projects\FibonacciOrtalamaBulma\obj\Debug\net7.0\FibonacciOrtalamaBulma.pdb
+D:\C# Projects\FibonacciOrtalamaBulma\obj\Debug\net7.0\FibonacciOrtalamaBulma.genruntimeconfig.cache
+D:\C# Projects\FibonacciOrtalamaBulma\obj\Debug\net7.0\ref\FibonacciOrtalamaBulma.dll
