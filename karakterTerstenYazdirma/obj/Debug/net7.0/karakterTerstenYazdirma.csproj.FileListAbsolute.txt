@@ -1,0 +1,14 @@
+D:\C# Projects\karakterTerstenYazdirma\bin\Debug\net7.0\karakterTerstenYazdirma.exe
+D:\C# Projects\karakterTerstenYazdirma\bin\Debug\net7.0\karakterTerstenYazdirma.deps.json
+D:\C# Projects\karakterTerstenYazdirma\bin\Debug\net7.0\karakterTerstenYazdirma.runtimeconfig.json
+D:\C# Projects\karakterTerstenYazdirma\bin\Debug\net7.0\karakterTerstenYazdirma.dll
+D:\C# Projects\karakterTerstenYazdirma\bin\Debug\net7.0\karakterTerstenYazdirma.pdb
+D:\C# Projects\karakterTerstenYazdirma\obj\Debug\net7.0\karakterTerstenYazdirma.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\karakterTerstenYazdirma\obj\Debug\net7.0\karakterTerstenYazdirma.AssemblyInfoInputs.cache
+D:\C# Projects\karakterTerstenYazdirma\obj\Debug\net7.0\karakterTerstenYazdirma.AssemblyInfo.cs
+D:\C# Projects\karakterTerstenYazdirma\obj\Debug\net7.0\karakterTerstenYazdirma.csproj.CoreCompileInputs.cache
+D:\C# Projects\karakterTerstenYazdirma\obj\Debug\net7.0\karakterTerstenYazdirma.dll
+D:\C# Projects\karakterTerstenYazdirma\obj\Debug\net7.0\refint\karakterTerstenYazdirma.dll
+D:\C# Projects\karakterTerstenYazdirma\obj\Debug\net7.0\karakterTerstenYazdirma.pdb
+D:\C# Projects\karakterTerstenYazdirma\obj\Debug\net7.0\karakterTerstenYazdirma.genruntimeconfig.cache
+D:\C# Projects\karakterTerstenYazdirma\obj\Debug\net7.0\ref\karakterTerstenYazdirma.dll
