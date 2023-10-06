@@ -1,0 +1,14 @@
+D:\C# Projects\IntegerIkililerinToplami\bin\Debug\net7.0\IntegerIkililerinToplami.exe
+D:\C# Projects\IntegerIkililerinToplami\bin\Debug\net7.0\IntegerIkililerinToplami.deps.json
+D:\C# Projects\IntegerIkililerinToplami\bin\Debug\net7.0\IntegerIkililerinToplami.runtimeconfig.json
+D:\C# Projects\IntegerIkililerinToplami\bin\Debug\net7.0\IntegerIkililerinToplami.dll
+D:\C# Projects\IntegerIkililerinToplami\bin\Debug\net7.0\IntegerIkililerinToplami.pdb
+D:\C# Projects\IntegerIkililerinToplami\obj\Debug\net7.0\IntegerIkililerinToplami.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\IntegerIkililerinToplami\obj\Debug\net7.0\IntegerIkililerinToplami.AssemblyInfoInputs.cache
+D:\C# Projects\IntegerIkililerinToplami\obj\Debug\net7.0\IntegerIkililerinToplami.AssemblyInfo.cs
+D:\C# Projects\IntegerIkililerinToplami\obj\Debug\net7.0\IntegerIkililerinToplami.csproj.CoreCompileInputs.cache
+D:\C# Projects\IntegerIkililerinToplami\obj\Debug\net7.0\IntegerIkililerinToplami.dll
+D:\C# Projects\IntegerIkililerinToplami\obj\Debug\net7.0\refint\IntegerIkililerinToplami.dll
+D:\C# Projects\IntegerIkililerinToplami\obj\Debug\net7.0\IntegerIkililerinToplami.pdb
+D:\C# Projects\IntegerIkililerinToplami\obj\Debug\net7.0\IntegerIkililerinToplami.genruntimeconfig.cache
+D:\C# Projects\IntegerIkililerinToplami\obj\Debug\net7.0\ref\IntegerIkililerinToplami.dll
