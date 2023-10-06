@@ -1,0 +1,14 @@
+D:\C# Projects\karakterDegistirme\obj\Debug\net7.0\karakterDegistirme.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\karakterDegistirme\obj\Debug\net7.0\karakterDegistirme.AssemblyInfoInputs.cache
+D:\C# Projects\karakterDegistirme\obj\Debug\net7.0\karakterDegistirme.AssemblyInfo.cs
+D:\C# Projects\karakterDegistirme\obj\Debug\net7.0\karakterDegistirme.csproj.CoreCompileInputs.cache
+D:\C# Projects\karakterDegistirme\bin\Debug\net7.0\karakterDegistirme.exe
+D:\C# Projects\karakterDegistirme\bin\Debug\net7.0\karakterDegistirme.deps.json
+D:\C# Projects\karakterDegistirme\bin\Debug\net7.0\karakterDegistirme.runtimeconfig.json
+D:\C# Projects\karakterDegistirme\bin\Debug\net7.0\karakterDegistirme.dll
+D:\C# Projects\karakterDegistirme\bin\Debug\net7.0\karakterDegistirme.pdb
+D:\C# Projects\karakterDegistirme\obj\Debug\net7.0\karakterDegistirme.dll
+D:\C# Projects\karakterDegistirme\obj\Debug\net7.0\refint\karakterDegistirme.dll
+D:\C# Projects\karakterDegistirme\obj\Debug\net7.0\karakterDegistirme.pdb
+D:\C# Projects\karakterDegistirme\obj\Debug\net7.0\karakterDegistirme.genruntimeconfig.cache
+D:\C# Projects\karakterDegistirme\obj\Debug\net7.0\ref\karakterDegistirme.dll
