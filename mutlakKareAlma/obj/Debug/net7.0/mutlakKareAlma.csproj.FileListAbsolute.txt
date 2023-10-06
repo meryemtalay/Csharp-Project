@@ -1,0 +1,14 @@
+D:\C# Projects\mutlakKareAlma\bin\Debug\net7.0\mutlakKareAlma.exe
+D:\C# Projects\mutlakKareAlma\bin\Debug\net7.0\mutlakKareAlma.deps.json
+D:\C# Projects\mutlakKareAlma\bin\Debug\net7.0\mutlakKareAlma.runtimeconfig.json
+D:\C# Projects\mutlakKareAlma\bin\Debug\net7.0\mutlakKareAlma.dll
+D:\C# Projects\mutlakKareAlma\bin\Debug\net7.0\mutlakKareAlma.pdb
+D:\C# Projects\mutlakKareAlma\obj\Debug\net7.0\mutlakKareAlma.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\mutlakKareAlma\obj\Debug\net7.0\mutlakKareAlma.AssemblyInfoInputs.cache
+D:\C# Projects\mutlakKareAlma\obj\Debug\net7.0\mutlakKareAlma.AssemblyInfo.cs
+D:\C# Projects\mutlakKareAlma\obj\Debug\net7.0\mutlakKareAlma.csproj.CoreCompileInputs.cache
+D:\C# Projects\mutlakKareAlma\obj\Debug\net7.0\mutlakKareAlma.dll
+D:\C# Projects\mutlakKareAlma\obj\Debug\net7.0\refint\mutlakKareAlma.dll
+D:\C# Projects\mutlakKareAlma\obj\Debug\net7.0\mutlakKareAlma.pdb
+D:\C# Projects\mutlakKareAlma\obj\Debug\net7.0\mutlakKareAlma.genruntimeconfig.cache
+D:\C# Projects\mutlakKareAlma\obj\Debug\net7.0\ref\mutlakKareAlma.dll
