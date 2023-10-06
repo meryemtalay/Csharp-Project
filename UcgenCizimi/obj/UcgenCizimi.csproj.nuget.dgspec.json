@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\C# Projects\\UcgenCizimi\\UcgenCizimi.csproj": {}
+    "D:\\C# Projects\\UcgenCizimi\\UcgenCizimi.csproj": {}
   },
   "projects": {
-    "d:\\C# Projects\\UcgenCizimi\\UcgenCizimi.csproj": {
+    "D:\\C# Projects\\UcgenCizimi\\UcgenCizimi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\C# Projects\\UcgenCizimi\\UcgenCizimi.csproj",
+        "projectUniqueName": "D:\\C# Projects\\UcgenCizimi\\UcgenCizimi.csproj",
         "projectName": "UcgenCizimi",
-        "projectPath": "d:\\C# Projects\\UcgenCizimi\\UcgenCizimi.csproj",
+        "projectPath": "D:\\C# Projects\\UcgenCizimi\\UcgenCizimi.csproj",
         "packagesPath": "C:\\Users\\meryem\\.nuget\\packages\\",
-        "outputPath": "d:\\C# Projects\\UcgenCizimi\\obj\\",
+        "outputPath": "D:\\C# Projects\\UcgenCizimi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
