@@ -1,0 +1,14 @@
+D:\C# Projects\votingUygulamasi\bin\Debug\net7.0\votingUygulamasi.exe
+D:\C# Projects\votingUygulamasi\bin\Debug\net7.0\votingUygulamasi.deps.json
+D:\C# Projects\votingUygulamasi\bin\Debug\net7.0\votingUygulamasi.runtimeconfig.json
+D:\C# Projects\votingUygulamasi\bin\Debug\net7.0\votingUygulamasi.dll
+D:\C# Projects\votingUygulamasi\bin\Debug\net7.0\votingUygulamasi.pdb
+D:\C# Projects\votingUygulamasi\obj\Debug\net7.0\votingUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\votingUygulamasi\obj\Debug\net7.0\votingUygulamasi.AssemblyInfoInputs.cache
+D:\C# Projects\votingUygulamasi\obj\Debug\net7.0\votingUygulamasi.AssemblyInfo.cs
+D:\C# Projects\votingUygulamasi\obj\Debug\net7.0\votingUygulamasi.csproj.CoreCompileInputs.cache
+D:\C# Projects\votingUygulamasi\obj\Debug\net7.0\votingUygulamasi.dll
+D:\C# Projects\votingUygulamasi\obj\Debug\net7.0\refint\votingUygulamasi.dll
+D:\C# Projects\votingUygulamasi\obj\Debug\net7.0\votingUygulamasi.pdb
+D:\C# Projects\votingUygulamasi\obj\Debug\net7.0\votingUygulamasi.genruntimeconfig.cache
+D:\C# Projects\votingUygulamasi\obj\Debug\net7.0\ref\votingUygulamasi.dll
