@@ -1,0 +1,14 @@
+D:\C# Projects\ATMUygulamasi\obj\Debug\net7.0\ATMUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\ATMUygulamasi\obj\Debug\net7.0\ATMUygulamasi.AssemblyInfoInputs.cache
+D:\C# Projects\ATMUygulamasi\obj\Debug\net7.0\ATMUygulamasi.AssemblyInfo.cs
+D:\C# Projects\ATMUygulamasi\obj\Debug\net7.0\ATMUygulamasi.csproj.CoreCompileInputs.cache
+D:\C# Projects\ATMUygulamasi\bin\Debug\net7.0\ATMUygulamasi.exe
+D:\C# Projects\ATMUygulamasi\bin\Debug\net7.0\ATMUygulamasi.deps.json
+D:\C# Projects\ATMUygulamasi\bin\Debug\net7.0\ATMUygulamasi.runtimeconfig.json
+D:\C# Projects\ATMUygulamasi\bin\Debug\net7.0\ATMUygulamasi.dll
+D:\C# Projects\ATMUygulamasi\bin\Debug\net7.0\ATMUygulamasi.pdb
+D:\C# Projects\ATMUygulamasi\obj\Debug\net7.0\ATMUygulamasi.dll
+D:\C# Projects\ATMUygulamasi\obj\Debug\net7.0\refint\ATMUygulamasi.dll
+D:\C# Projects\ATMUygulamasi\obj\Debug\net7.0\ATMUygulamasi.pdb
+D:\C# Projects\ATMUygulamasi\obj\Debug\net7.0\ATMUygulamasi.genruntimeconfig.cache
+D:\C# Projects\ATMUygulamasi\obj\Debug\net7.0\ref\ATMUygulamasi.dll
