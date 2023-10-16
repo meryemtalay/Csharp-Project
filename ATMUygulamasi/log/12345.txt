@@ -1,0 +1,2 @@
+12345 kimlik numaralı Selim Çankaya kişisi 16.10.2023 18:53:26 - tarihinde başarılı giriş yaptı.
+12345 kimlik numaralı Selim Çankaya kişisi 16.10.2023 18:53:39 tarihinde 500 miktarda başarılı para çekme işlemı gerçekleştirmiştir
