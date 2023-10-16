@@ -1,5 +1,5 @@
 using System;
-
+//Loglama işlemi burada gerçekleştirilir.
 namespace ATMUygulamasi
 {
     public class GunsonuLog
